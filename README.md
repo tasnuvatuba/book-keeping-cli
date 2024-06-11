@@ -21,6 +21,12 @@ The Book Keeping CLI is a command-line application that allows users to manage t
     cd book-keeping-cli
     ```
 
+3. Set up a virtual environment:
+
+    ```sh
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
 [//]: # (3. Install the dependencies:)
 
 [//]: # ()
